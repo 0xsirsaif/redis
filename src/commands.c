@@ -2,11 +2,11 @@
 
 #include "server.h"
 
-/* We have fabulous commands from
- * the fantastic
- * Redis Command Table! */
+    /* We have fabulous commands from
+     * the fantastic
+     * Redis Command Table! */
 
-/********** BITCOUNT ********************/
+    /********** BITCOUNT ********************/
 
 /* BITCOUNT history */
 commandHistory BITCOUNT_History[] = {
